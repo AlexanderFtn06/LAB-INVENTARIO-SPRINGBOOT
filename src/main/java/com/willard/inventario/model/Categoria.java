@@ -1,4 +1,4 @@
-package com.willard.inventario.models;
+package com.willard.inventario.model;
 
 import jakarta.persistence.*;
 

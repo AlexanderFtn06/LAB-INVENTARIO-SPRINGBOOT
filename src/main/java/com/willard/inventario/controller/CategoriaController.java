@@ -1,6 +1,6 @@
 package com.willard.inventario.controller;
 
-import com.willard.inventario.models.Categoria;
+import com.willard.inventario.model.Categoria;
 import com.willard.inventario.service.CategoriaService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

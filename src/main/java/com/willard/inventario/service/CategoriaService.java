@@ -1,6 +1,6 @@
 package com.willard.inventario.service;
 
-import com.willard.inventario.models.Categoria;
+import com.willard.inventario.model.Categoria;
 import com.willard.inventario.repository.CategoriaRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;

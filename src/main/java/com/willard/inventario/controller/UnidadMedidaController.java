@@ -1,6 +1,6 @@
 package com.willard.inventario.controller;
 
-import com.willard.inventario.models.UnidadMedida;
+import com.willard.inventario.model.UnidadMedida;
 import com.willard.inventario.service.UnidadMedidaService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

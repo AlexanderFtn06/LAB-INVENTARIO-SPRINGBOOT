@@ -1,7 +1,7 @@
 package com.willard.inventario.service;
 
 import org.springframework.stereotype.Service;
-import com.willard.inventario.models.UnidadMedida;
+import com.willard.inventario.model.UnidadMedida;
 import com.willard.inventario.repository.UnidadMedidaRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.server.ResponseStatusException;
