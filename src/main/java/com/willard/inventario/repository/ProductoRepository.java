@@ -1,6 +1,6 @@
 package com.willard.inventario.repository;
 
-import com.willard.inventario.entity.ProductoEntity;
+import com.willard.inventario.model.ProductoEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

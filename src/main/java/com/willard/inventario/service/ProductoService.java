@@ -1,6 +1,6 @@
 package com.willard.inventario.service;
 
-import com.willard.inventario.entity.ProductoEntity;
+import com.willard.inventario.model.ProductoEntity;
 import com.willard.inventario.repository.ProductoRepository;
 import org.springframework.stereotype.Service;
 

@@ -1,4 +1,4 @@
-package com.willard.inventario.entity;
+package com.willard.inventario.model;
 
 import jakarta.persistence.*;
 import jakarta.validation.constraints.NotBlank;

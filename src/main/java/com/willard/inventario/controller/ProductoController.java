@@ -1,6 +1,6 @@
 package com.willard.inventario.controller;
 
-import com.willard.inventario.entity.ProductoEntity;
+import com.willard.inventario.model.ProductoEntity;
 import com.willard.inventario.service.ProductoService;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
